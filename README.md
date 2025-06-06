@@ -140,12 +140,12 @@ The graph database shows:
 - **Target Analysis**: Which entities are most at risk
 
 ## 📈 Results
+![Front End UI](Front%20End.jpg)
 
-![Main Interface](Front End.jpg)
+![Knowledge Base](Knowledge%20Base.jpg)
 
-![Knowledge_Base](Knowledge Base.jpg)
+![Knowledge Graph](Knowledge%20Graph.jpg)
 
-![Neo4j Graph](Knowledge Graph.jpg)
 
 ## 🛠️ Technology Stack
 
